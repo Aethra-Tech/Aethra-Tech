@@ -5,11 +5,11 @@ We help teams reduce repetitive work, improve customer experience, and ship prac
 
 ### What We Do
 ✅ AI Integration for Apps & Businesses
-  - AI chat / customer support assistants - AI summarization, classification & routing - Smart forms & onboarding flows
+    AI chat / customer support assistants - AI summarization, classification & routing - Smart forms & onboarding flows
 ✅ Automation & Business Workflows
-  - WhatsApp / Email / Web automation - Follow-up & reminder systems - Document collection + validation - Dashboards, admin panels & ops tooling
+    WhatsApp / Email / Web automation - Follow-up & reminder systems - Document collection + validation - Dashboards, admin panels & ops tooling
 ✅ Custom Systems (Full-stack)
-  - Web apps, portals & admin dashboards - API development & integrations - Database + analytics support
+    Web apps, portals & admin dashboards - API development & integrations - Database + analytics support
 
 ### Projects & Products
 1) Task Management System
